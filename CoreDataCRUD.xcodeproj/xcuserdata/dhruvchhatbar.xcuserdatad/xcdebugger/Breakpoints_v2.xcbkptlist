@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B3D1528-3F66-493D-B8C7-CD29B173FD34"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5E61AB0-6700-4972-9764-FB2BDB9F9BB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataCRUD/Common/CoreDataSingleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "createCoreData(username:password:email:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5E61AB0-6700-4972-9764-FB2BDB9F9BB4 - 9f1220de9544803f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataCRUD.CoreDataSingleton.createCoreData(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "CoreDataCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/CoreData/CoreDataCRUD/CoreDataCRUD/Common/CoreDataSingleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2228">
+               </Location>
+               <Location
+                  uuid = "C5E61AB0-6700-4972-9764-FB2BDB9F9BB4 - c8d8ec6cad139133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataCRUD.CoreDataSingleton.createCoreData(username: Swift.String, password: Swift.String, email: Swift.String, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "CoreDataCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/CoreData/CoreDataCRUD/CoreDataCRUD/Common/CoreDataSingleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2264">
+               </Location>
+               <Location
+                  uuid = "C5E61AB0-6700-4972-9764-FB2BDB9F9BB4 - a16270328587ec96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataCRUD.CoreDataSingleton.createCoreData(username: Swift.String, password: Swift.String, email: Swift.String, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "CoreDataCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/Learning/CoreData/CoreDataCRUD/CoreDataCRUD/Common/CoreDataSingleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D45550B0-DD3C-4ABF-B771-005A8792968D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataCRUD/Common/CoreDataSingleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "createCoreData(username:password:email:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20110DEC-07CC-467D-AE15-2F7991E96ABD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataCRUD/controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C096E04A-32C2-407D-91AF-9D6DB61B292E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataCRUD/controller/AddUpdateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "btnTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C096E04A-32C2-407D-91AF-9D6DB61B292E - 492437d0679eb2ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataCRUD.AddUpdateViewController.btnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "CoreDataCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/CoreData/CoreDataCRUD/CoreDataCRUD/controller/AddUpdateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+               <Location
+                  uuid = "C096E04A-32C2-407D-91AF-9D6DB61B292E - 3a65a0d05fc71d7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataCRUD.AddUpdateViewController.btnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "CoreDataCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/CoreData/CoreDataCRUD/CoreDataCRUD/controller/AddUpdateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C096E04A-32C2-407D-91AF-9D6DB61B292E - b8ac37dc49e7fa63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataCRUD.AddUpdateViewController.btnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "CoreDataCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/Learning/CoreData/CoreDataCRUD/CoreDataCRUD/controller/AddUpdateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
